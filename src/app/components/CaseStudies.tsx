@@ -83,7 +83,7 @@ const caseStudies: CaseStudy[] = [
 ]
 
 export default function CaseStudies() {
-  const { t, language } = useI18n()
+  const { language } = useI18n()
   
   return (
     <div className="text-center max-w-[1080px] mx-auto">
