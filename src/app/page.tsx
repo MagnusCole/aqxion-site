@@ -3,6 +3,7 @@ import Hero from './components/Hero';
 import Manifesto from './components/Manifesto';
 import Loop from './components/Loop';
 import Services from './components/Services';
+import CaseStudies from './components/CaseStudies';
 import CTA from './components/CTA';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -21,6 +22,9 @@ export default function Home() {
         </section>
         <section className="py-24 max-w-[1080px] mx-auto px-6">
           <Services />
+        </section>
+        <section className="py-24 max-w-[1080px] mx-auto px-6">
+          <CaseStudies />
         </section>
         <section className="py-24 max-w-[1080px] mx-auto px-6">
           <CTA />

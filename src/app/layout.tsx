@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { EB_Garamond, Inter } from "next/font/google";
 import "./globals.css";
+import { I18nProvider } from "./i18n/context";
 
 const garamond = EB_Garamond({
   variable: "--font-garamond",
@@ -15,8 +16,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "AQXION™ | Adquisición Estratégica de Empresas Familiares",
-  description: "Holding privado que adquiere, acelera y consolida empresas familiares sin sucesión en LATAM.",
+  title: "AQXION™ | Strategic Acquisition of Family Businesses",
+  description: "Private holding that acquires, accelerates, and consolidates family businesses without succession in LATAM.",
   metadataBase: new URL("https://aqxion.com"),
   alternates: {
     canonical: "/"
@@ -29,11 +30,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es">
+    <html lang="en">
       <body
         className={`${garamond.variable} ${inter.variable} antialiased font-sans bg-primary text-text`}
       >
-        {children}
+        <I18nProvider>
+          {children}
+        </I18nProvider>
       </body>
     </html>
   );

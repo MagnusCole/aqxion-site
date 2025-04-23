@@ -1,8 +1,5 @@
 {
-  "rewrites": [
-    {
-      "source": "/favicon.ico",
-      "destination": "/public/favicon.ico"
-    }
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
+  "cleanUrls": true,
+  "trailingSlash": false
 }

@@ -1,23 +1,24 @@
-# AQXION™ – Brand Guide
+# AQXION™ · Brand Guidelines (V2)
+
+## Colors
+- Carbon Black: #0D0D0D
+- Pure White: #FFFFFF
+- Strategic Gold: #C4A24F
 
 ## Typography
-| Role | Font | Fallback |
-|------|------|----------|
-| Headings | EB Garamond, serif | Georgia, serif |
-| Body | Inter, sans‑serif | Helvetica, Arial, sans‑serif |
+- Headings: EB Garamond (serif, weight 500)
+- Body: Inter (sans-serif)
 
-## Color Palette
-| Name | HEX | Usage |
-|------|-----|-------|
-| Carbon Black | #0D0D0D | Backgrounds, headings |
-| Pure White | #FFFFFF | Main text on dark BG |
-| Royal Gold | #C4A24F | Accents, links, icons |
+## Layout
+- Max-width: 1080px
+- Grid: 12-col
+- Padding: 24px (mobile), 72px (desktop)
+- Mobile-first: All sections fully visible and scrollable on 375px width
 
-## Tone of Voice
-* Formal, concise, factual.
-* No exclamation marks.
-* Sentences ≤ 20 words.
+## Motion
+- Fade-ins only (opacity + ease-out)
+- No parallax, no carousels
 
-## Logo
-Temporary word‑mark using EB Garamond in upper case. Provide 20 px margin on all sides.
-
+## Language Priority
+- English by default
+- Language switch component visible in navbar

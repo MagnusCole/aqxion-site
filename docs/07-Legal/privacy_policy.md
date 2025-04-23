@@ -1,9 +1,6 @@
-# Privacy Policy (placeholder)
+# Privacy Policy
 
-AQXION™ operates this website as an informational portal only.
-
-* No personal data is collected.
-* No third‑party cookies are set.
-* Contact emails are handled manually and stored offline.
-
-Full policy will be published before any automated data capture.
+This site is purely informational.  
+No cookies or trackers are used.  
+Emails to deal@aqxion.com are confidential and deleted upon request.  
+AQXION™ is a strategic acquisition entity registered in Peru and Delaware.

@@ -1,57 +1,35 @@
-# AQXION™ – Approved Copy Blocks (English)
+# AQXION™ · Content Blocks (English-first)
 
----
+## HERO
+We turn untransferred legacies into perpetual assets.  
+Private holding. No dilution. No improvisation.
 
-## Header
-**AQXION™**  
-Advisory Holding • LATAM Acquisition
+## MANIFESTO (90 words)
+Every year, Latin America loses thousands of profitable family businesses.  
+AQXION exists to acquire them — preserving their legacy, unlocking cash flow, and consolidating them into a disciplined holding.  
+We start where venture funds don’t dare and startups can’t reach.  
+First target: funeral services — profitable, fragmented, and ignored.  
+We are not founders. We are operators.  
+If you’re ready to retire with dignity, invest in real flow, or contribute strategic expertise — the door is open.
 
----
+## LOOP TEXT
+Acquire → succession-free owners, seller financing  
+Accelerate → cash flow, margins, digital layer  
+Consolidate → AQXION Holding, synergy + reporting
 
-## Hero
-**We turn impossible successions into perpetual assets.**  
-Holding platform. No dilution. No improvisation.
+## FILTER BLOCK
+**Owners** — confidential deal within 60-90 days  
+**Investors** — minimum ticket $250K, early access  
+**Advisors** — senior profiles, M&A/sector expertise
 
----
+## CTA
+Request private call → mailto:deal@aqxion.com?subject=AQXION%20Inquiry&body=Name%3A%0ARole%3A%20(Owner%2FInvestor%2FAdvisor)%0AMotive%3A
 
-## Manifesto (90 words)
-Peru is quietly losing its most valuable companies. Profitable family businesses vanish when owners retire without a successor. Funds ignore them, startups do not speak their language, governments look away. AQXION was built to reverse that destruction. We acquire, accelerate and consolidate overlooked assets—beginning with the funeral industry—through discipline, structure and respect. If legacy matters to you, this is your moment.
-
----
-
-## AQXION LOOP™ tagline
-Acquire → Accelerate → Consolidate
-
----
-
-## What we do (bullet)
-* Identify owner‑operated companies without succession.
-* Negotiate respectful, flexible exits.
-* Inject minimal technology and operational rigour.
-* Integrate into a single, audited holding.
-
----
-
-## Calls to Action
-### Owners
-Considering retirement? — Request a private, no‑obligation call (60‑90 days closing).
-
-### Investors
-Minimum ticket USD 250 k. — Request portfolio access.
-
-### Advisors
-10+ years in M&A or sector experience? — Join the advisory board.
-
----
-
-## Footer Manifesto
-Succession chaos will not be solved by speeches.  
+## FOOTER
+Succession chaos won’t be fixed by ideas.  
 It will be solved by disciplined acquisition.  
-AQXION has begun; decide from where you witness it.
+AQXION has already begun. You choose where to stand.
 
----
-
-## Contact Block
-Luis Noriega — Founder & CEO  
-deal@aqxion.com   |   +51 914 743 214
-
+## CONTACT
+Luis Noriega — Founder & Executive Director  
+luis@aqxion.com | +51 914 743 214
