@@ -1,9 +1,10 @@
-# AQXION™ · Tech Stack (V2)
+# AQXION™ · Tech Stack (V3)
 
-- Framework: Next.js 14 (App Router, TS)
-- Styling: Tailwind CSS 3
-- Deployment: Vercel (Production)
-- Internationalization: next-intl or manual language toggle
-- Content system (optional): MDX
-- Forms (optional): Typeform or custom serverless API
-- Analytics: Vercel Analytics + OG image
+- Framework: Next.js 14 (App Router, TypeScript)
+- Styling: Tailwind CSS v3
+- i18n: next-intl with language persistence
+- Hosting: Vercel (prod + preview branches)
+- Forms: CTA via mailto, optional Netlify function fallback
+- Analytics: Vercel Analytics, GA optional
+- Legal: Footer perception logic with /legal page
+

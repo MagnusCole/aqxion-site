@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AQXION",
+  "url": "https://aqxion.com",
+  "logo": "https://aqxion.com/logo.svg",
+  "description": "Holding privado que adquiere, acelera y consolida empresas familiares sin sucesión en LATAM.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lima",
+    "addressRegion": "Lima",
+    "addressCountry": "PE"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "email": "contact@aqxion.com"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/aqxion"
+  ]
+}

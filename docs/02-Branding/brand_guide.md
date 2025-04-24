@@ -1,24 +1,22 @@
-# AQXION™ · Brand Guidelines (V2)
+# AQXION™ · Branding V3
 
 ## Colors
 - Carbon Black: #0D0D0D
-- Pure White: #FFFFFF
 - Strategic Gold: #C4A24F
+- Pure White: #FFFFFF
 
 ## Typography
-- Headings: EB Garamond (serif, weight 500)
-- Body: Inter (sans-serif)
+- Titles: EB Garamond, serif
+- Body: Inter, sans-serif
 
-## Layout
-- Max-width: 1080px
-- Grid: 12-col
+## Design System
+- Grid: 12-col TailwindCSS
 - Padding: 24px (mobile), 72px (desktop)
-- Mobile-first: All sections fully visible and scrollable on 375px width
+- Motion: only fade, duration 300ms
 
-## Motion
-- Fade-ins only (opacity + ease-out)
-- No parallax, no carousels
+## Language UX
+- Primary: English
+- Secondary: Spanish
+- Implement toggle with cookie/localStorage persistence
+- Display planned HQs as "Strategic presence", not legal HQ
 
-## Language Priority
-- English by default
-- Language switch component visible in navbar

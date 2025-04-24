@@ -1,20 +1,24 @@
-# AQXION™ · Institutional Web Vision (V2)
+# AQXION™ · Strategic Perception Document (V3)
 
-## 🌐 Core Objective
-Project the authority of a global private holding that specializes in acquiring family businesses with no succession plan.
+## 🎯 Core Objective
+Project the undeniable perception of a real, global, and operational private holding — even pre-incorporation — and convert it into high-value, qualified conversations.
 
-## 🎯 Strategic Outcomes
-1. Instant perception of institutional credibility (under 5 seconds)
-2. Qualified inbound deal flow (owners, investors, advisors)
-3. Zero noise from irrelevant leads
+## 🌍 Positioning Statement
+AQXION™ is a private acquisition initiative building its legal structure in real-time. While transactions trigger incorporation, our operational rigor and strategic clarity position us as a credible player from day zero.
 
-## 🗺 Target Visitors
-- Business owners aged 50+ with profitable, succession-free operations
-- Strategic investors (ticket ≥ $250K)
-- Senior M&A / industry advisors (10+ years)
+## 🧠 Strategic Messaging Logic (Dan Peña Aligned)
+- "Act as if": Structure follows traction, not the other way around.
+- Holding is in formation; this is disclosed, not hidden.
+- Everything speaks authority: the site, the copy, the signatures.
 
-## 🧭 Upgrade Direction (V2)
-- Hero + Manifesto rewritten in English with financial tone
-- International presence shown (Lima + Delaware HQ)
-- Case studies (anonymized) or method showcases
-- Live translation switch (EN <-> ES)
+## 🧩 Target Audiences
+- Succession-free business owners (LATAM)
+- Investors with $250K+ looking for strategic deals
+- Advisors with M&A, legal or sector experience
+
+## KPIs
+- ≥ 95% Lighthouse score (Perf, SEO, Access, Best Practices)
+- 0% irrelevant leads from CTA or filter form
+- 15% qualified visitor-to-call conversion
+- Bounce rate < 20% in first 30 seconds
+
